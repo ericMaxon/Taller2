@@ -1,0 +1,21 @@
+#title{
+  text-align: center;
+}
+
+/*Centreando el contenido*/
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/*Estilos del canva*/
+#canvas {
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;
+}
+#test {
+  width: 100;
+}
